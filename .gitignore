@@ -1,0 +1,36 @@
+# irrelevant python extras
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+.eggs/
+*.manifest
+*.spec
+
+# logs
+logs/
+*.log
+*.out
+*.err
+nohup.out
+/tmp/
+temp/
+*.pid
+
+# config extras
+config.yaml
+configs/*.local.yaml
+configs/secrets.json
+*.key
+*.pem
+*.crt
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
